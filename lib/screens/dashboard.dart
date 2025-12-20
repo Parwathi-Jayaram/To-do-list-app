@@ -7,6 +7,7 @@ class Dashboard extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return Scaffold (
+      backgroundColor:tdPastely,
       appBar : AppBar(
         backgroundColor:tdPastelv,
         title:Text('To Do List',
