@@ -1,16 +1,12 @@
 # tracker
 
-A new Flutter project.
+A simple and clean to-do app that helps users organize tasks, track progress, and stay productive.  
+This project was built as part of my Flutter learning journey and focuses on UI design, state management, and reusable widgets.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Fork and Clone the repository :-  "git clone https://github.com/your-username/flutter-todo-app.git"
+2. Navigate to the project folder:- cd flutter-todo-app
+3. Install the dependencies:- flutter pub get
+4. Run the application:- flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
