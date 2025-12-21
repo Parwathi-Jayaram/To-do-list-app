@@ -18,6 +18,9 @@ class ToDo{
       ToDo(id: '05', todoText: 'Leet Code', ),
       ToDo(id: '06', todoText: 'Grocery Shopping',),
       ToDo(id: '07', todoText: 'Checking Mails', isDone:true),
+      ToDo(id: '08', todoText: 'Checking Mails', ),
+      ToDo(id: '09', todoText: 'Checking Mails', isDone:true),
+      ToDo(id: '10', todoText: 'Checking Mails', ),
     ];
   }
 }
